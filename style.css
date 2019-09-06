@@ -1,0 +1,8 @@
+body{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button, div>div {
+    margin-bottom: 10px;
+}
